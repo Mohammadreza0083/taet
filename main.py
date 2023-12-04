@@ -52,3 +52,4 @@ else:
     print('enter a valid number');
 
 print('hiiii')
+x = 10;
